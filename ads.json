@@ -13,6 +13,9 @@
             "jans"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "one.Page": {}
+        },
+        "name": "agama-first-project"
     }
 }
