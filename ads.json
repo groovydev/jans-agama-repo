@@ -1,1 +1,18 @@
-{}
+{
+    "agama-first-project": {
+        "projectName": "agama-first-project",
+        "description": "Demo",
+        "type": "community",
+        "author": "groovydev",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/groovydev/jans-agama-repo",
+        "githubUri": "https://github.com/groovydev/jans-agama-repo",
+        "license": "apache-2.0",
+        "lastUpdated": "1781788258744",
+        "tags": [
+            "jans"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
